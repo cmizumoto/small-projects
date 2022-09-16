@@ -8,3 +8,4 @@ Also uploading them in netlify.
 
 1- Expanding Cards
 2- Progress Bar Steps
+3- Rotating Navigation
