@@ -10,3 +10,5 @@ Also uploading them in netlify.
 2- Progress Bar Steps
 3- Rotating Navigation
 4- Expanding Search Bar
+5- Blur Loadin Screen
+6- Scroll Animation
