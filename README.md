@@ -12,3 +12,4 @@ Also uploading them in netlify.
 4- Expanding Search Bar
 5- Blur Loadin Screen
 6- Scroll Animation
+7- Split Lading Page
