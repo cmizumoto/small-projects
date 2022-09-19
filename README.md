@@ -13,3 +13,4 @@ Also uploading them in netlify.
 5- Blur Loadin Screen
 6- Scroll Animation
 7- Split Lading Page
+8- Wave Letters Form
