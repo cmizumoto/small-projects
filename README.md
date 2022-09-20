@@ -14,3 +14,4 @@ Also uploading them in netlify.
 6- Scroll Animation
 7- Split Lading Page
 8- Wave Letters Form
+9- Sound Board
