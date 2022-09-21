@@ -27,3 +27,5 @@ Also uploading them in netlify.
 10- Dad Jokes
 
 11- Key Codes
+
+12- FAQ Boxes
