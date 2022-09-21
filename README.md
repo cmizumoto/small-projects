@@ -57,3 +57,7 @@ Also uploading them in netlify.
 13- Choice Picker
 
 - Input your choices and we decide for you which one, randomly of course.
+
+14- Expanding Navigation Bar
+
+- Small animation for navbars, making the hamburger icon transition to a close icon.
