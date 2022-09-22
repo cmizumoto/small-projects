@@ -61,3 +61,7 @@ Also uploading them in netlify.
 14- Expanding Navigation Bar
 
 - Small animation for navbars, making the hamburger icon transition to a close icon.
+
+15- Increment Counter
+
+- This effect is usually used when you want to makes the values bigger or give attention to it.

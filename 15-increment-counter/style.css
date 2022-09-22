@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Muli:wght@300;400;900&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("organic-tiles.png");
+  font-family: "Muli", sans-serif;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.counter-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 30px 50px;
+}
+
+.counter {
+  font-size: 60px;
+  margin-top: 10px;
+}
+
+@media (max-width: 580px) {
+  body {
+    flex-direction: column;
+  }
+}
