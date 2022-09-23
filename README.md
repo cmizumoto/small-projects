@@ -65,3 +65,7 @@ Also uploading them in netlify.
 15- Increment Counter
 
 - This effect is usually used when you want to makes the values bigger or give attention to it.
+
+16- Water Tracker
+
+- Good for health apps, interactive way to keep track of your water intake.
