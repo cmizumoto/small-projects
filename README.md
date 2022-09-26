@@ -69,3 +69,7 @@ Also uploading them in netlify.
 16- Water Tracker
 
 - Good for health apps, interactive way to keep track of your water intake.
+
+17- Movie Application
+
+- Simples application to fetch information from an API.
