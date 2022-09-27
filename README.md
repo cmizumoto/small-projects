@@ -73,3 +73,7 @@ Also uploading them in netlify.
 17- Movie Application
 
 - Simples application to fetch information from an API.
+
+18- Background gallery
+
+- Image gallery that changes the image and background.
