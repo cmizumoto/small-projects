@@ -1,7 +1,8 @@
 /* 
     API stuff
 */
-const API = "fe2133652bcd6c9a93263abf73bafcab";
+// put your API key here
+const API = "";
 const API_URL =
   "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=" + API + "&page=1";
 const IMG_PATH = "https://image.tmdb.org/t/p/w1280";

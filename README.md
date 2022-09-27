@@ -77,3 +77,7 @@ Also uploading them in netlify.
 18- Background gallery
 
 - Image gallery that changes the image and background.
+
+19- Analog Clock
+
+- Analog Clock for simples and time related applications.
