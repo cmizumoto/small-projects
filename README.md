@@ -84,4 +84,8 @@ Also uploading them in netlify.
 
 20- Button Ripple Effect
 
-- button with a ripple effect, like the Material UI buttons
+- Button with a ripple effect, like the Material UI buttons
+
+21- Drag and Drop
+
+- Testing the drag and drop API events
