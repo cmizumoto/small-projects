@@ -93,3 +93,7 @@ Also uploading them in netlify.
 22- Paint Brush
 
 - Using canvas to make a simple Paint Brush.
+
+23- Loading Animation
+
+- Some triangles spinning for loading animation.
