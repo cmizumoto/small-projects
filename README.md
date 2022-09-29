@@ -89,3 +89,7 @@ Also uploading them in netlify.
 21- Drag and Drop
 
 - Testing the drag and drop API events
+
+22- Paint Brush
+
+- Using canvas to make a simple Paint Brush.
