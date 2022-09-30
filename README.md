@@ -1,6 +1,6 @@
 # Small Projects
 
-This is a series of small projects using HTML, CSS and JS.
+This is a series of small projects using HTML, CSS and JS. No libraries are being used, this project is to test and check my skills.
 Mostly small components, image slide shows, small games, fetching from APIs.
 Also uploading them in netlify.
 
@@ -101,3 +101,7 @@ Also uploading them in netlify.
 24- Content Placeholder
 
 - A card that displays a placeholder animation while the content is not loaded yet.
+
+25- Sticky Navigation
+
+- Most comonly used feature in websites, a sticky navbar, easy to access the content anytime.
