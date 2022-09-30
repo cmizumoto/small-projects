@@ -97,3 +97,7 @@ Also uploading them in netlify.
 23- Loading Animation
 
 - Some triangles spinning for loading animation.
+
+24- Content Placeholder
+
+- A card that displays a placeholder animation while the content is not loaded yet.
