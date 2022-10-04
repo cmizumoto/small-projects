@@ -105,3 +105,7 @@ Also uploading them in netlify.
 25- Sticky Navigation
 
 - Most comonly used feature in websites, a sticky navbar, easy to access the content anytime.
+
+26- Double Inverted Sliders
+
+- A page with two columns, after scrolling one slides up and the other slides down
