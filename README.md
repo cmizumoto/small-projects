@@ -108,4 +108,8 @@ Also uploading them in netlify.
 
 26- Double Inverted Sliders
 
-- A page with two columns, after scrolling one slides up and the other slides down
+- A page with two columns, after scrolling one slides up and the other slides down.
+
+27- Toast Notifications
+
+- Small notifications at the bottom of the screen, useful in some websites.
