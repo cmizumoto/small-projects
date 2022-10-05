@@ -113,3 +113,7 @@ Also uploading them in netlify.
 27- Toast Notifications
 
 - Small notifications at the bottom of the screen, useful in some websites.
+
+28- Github Profiles
+
+- Using Github API to make a search user application.
