@@ -121,3 +121,11 @@ Also uploading them in netlify.
 29- Double Click Like
 
 - Using double click to like an image like Instagram and tracking mouse position.
+
+30- Typing Effect
+
+- Typing effect that we see in some websites to make it more live.
+
+31- Password Generator
+
+- Customize your password length, uppercase, lowercase, numbers and symbols.
