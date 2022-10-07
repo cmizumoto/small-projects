@@ -117,3 +117,7 @@ Also uploading them in netlify.
 28- Github Profiles
 
 - Using Github API to make a search user application.
+
+29- Double Click Like
+
+- Using double click to like an image like Instagram and tracking mouse position.
