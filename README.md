@@ -128,4 +128,8 @@ Also uploading them in netlify.
 
 31- Password Generator
 
-- Customize your password length, uppercase, lowercase, numbers and symbols.
+- Customize your password length, uppercase, lowercase, numbers and symbols, and copy to your clipboard.
+
+32- Switches
+
+- Joke project that makes the switches turn on and off if you select a certain combination, this is most for the css part.
