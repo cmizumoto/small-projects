@@ -1,6 +1,6 @@
 # Small Projects
 
-This is a series of small projects using HTML, CSS and JS. No libraries are being used, this project is to test and check my skills.
+This is a series of small projects using HTML, CSS and JS. Most of the projects do not use libraries, if it is used is mostly Font Awesome for icons and small libraries for other styles. I'm using these projects to test my skills and knowledge.
 Mostly small components, image slide shows, small games, fetching from APIs.
 Also uploading them in netlify.
 
@@ -133,3 +133,7 @@ Also uploading them in netlify.
 32- Switches
 
 - Joke project that makes the switches turn on and off if you select a certain combination, this is most for the css part.
+
+33- Notes Application
+
+- Simple notes app, using local storage to maintain the data, add, delete, edit notes. This project will use a library called Marked, so it's possible to style the texts inside the notes.
