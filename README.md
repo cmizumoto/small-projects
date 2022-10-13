@@ -137,3 +137,7 @@ Also uploading them in netlify.
 33- Notes Application
 
 - Simple notes app, using local storage to maintain the data, add, delete, edit notes. This project will use a library called Marked, so it's possible to style the texts inside the notes.
+
+34- Countdown Animation
+
+- Countdown to start a game, or something to make the user ready, I ended up using words, but it is possible to put numbers as well.
