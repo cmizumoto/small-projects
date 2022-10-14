@@ -141,3 +141,7 @@ Also uploading them in netlify.
 34- Countdown Animation
 
 - Countdown to start a game, or something to make the user ready, I ended up using words, but it is possible to put numbers as well.
+
+35- Auto Image Carousel
+
+- Timed carousel, almost all websites uses this kind of carousel to display products, news, photos, etc. There are buttons as well, so you can control it too.
