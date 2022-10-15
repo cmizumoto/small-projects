@@ -145,3 +145,7 @@ Also uploading them in netlify.
 35- Auto Image Carousel
 
 - Timed carousel, almost all websites uses this kind of carousel to display products, news, photos, etc. There are buttons as well, so you can control it too.
+
+36- Hoverboard
+
+- An area to hover your mouse and leave a cool effect behind, not really that useful but in somecases might help with the experience.
