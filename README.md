@@ -149,3 +149,7 @@ Also uploading them in netlify.
 36- Hoverboard
 
 - An area to hover your mouse and leave a cool effect behind, not really that useful but in somecases might help with the experience.
+
+37- Pokedex
+
+- Application to fetch data from PokéAPI, displaying 150 (or more) pokemons with types, different colors, skills and other data.
