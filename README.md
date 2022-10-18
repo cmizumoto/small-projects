@@ -153,3 +153,7 @@ Also uploading them in netlify.
 37- Pokedex
 
 - Application to fetch data from PokéAPI, displaying 150 (or more) pokemons with types, different colors, skills and other data.
+
+38- Mobile Tab Navigation
+
+- Navigation made for mobile to display different items/pages, possible to use this as a widget in websites too.
