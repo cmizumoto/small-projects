@@ -19,3 +19,53 @@ const colors = {
   fighting: "#E6E0D4",
   normal: "#F5F5F5",
 };
+
+const mainTypes = Object.keys(colors);
+
+/* 
+    Functions
+*/
+const fetchPokemons = async () => {
+  for (let i = 1; i < pokemonCount; i++) {
+    await getPokemon(i);
+  }
+};
+
+const getPokemon = async (id) => {
+  const API_URL = `https://pokeapi.co/api/v2/pokemon/${id}`;
+  const response = await fetch(API_URL);
+  const responseData = await response.json();
+
+  createPokemonCard(responseData);
+};
+
+const createPokemonCard = (pokemon) => {
+  const pokemonElement = document.createElement("div");
+  pokemonElement.classList.add("pokemon");
+
+  const name = pokemon.name[0].toUpperCase() + pokemon.name.slice(1);
+  const id = pokemon.id.toString().padStart(3, "0");
+
+  const pokemonTypes = pokemon.types.map((type) => type.type.name);
+  const type = mainTypes.find((type) => pokemonTypes.indexOf(type) > -1);
+
+  const color = colors[type];
+  pokemonElement.style.backgroundColor = color;
+
+  const pokemonHTML = `
+        <div class="img-container">
+          <img src="https://cdn.traction.one/pokedex/pokemon/${pokemon.id}.png" alt="" />
+        </div>
+        <div class="info">
+          <span class="number">#${id}</span>
+          <h3 class="name">${name}</h3>
+          <small class="type">Type: <span>${type}</span></small>
+        </div>
+    `;
+
+  pokemonElement.innerHTML = pokemonHTML;
+
+  pokeContainer.appendChild(pokemonElement);
+};
+
+fetchPokemons();
