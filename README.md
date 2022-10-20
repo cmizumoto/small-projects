@@ -157,3 +157,7 @@ Also uploading them in netlify.
 38- Mobile Tab Navigation
 
 - Navigation made for mobile to display different items/pages, possible to use this as a widget in websites too.
+
+39- Password Strength Background
+
+- A form to detect the user password strength, changing the background based on the password length and special characters. Also using Tailwind, been some time since I used it.
