@@ -161,3 +161,15 @@ Also uploading them in netlify.
 39- Password Strength Background
 
 - A form to detect the user password strength, changing the background based on the password length and special characters. Also using Tailwind, been some time since I used it.
+
+40- 3d Background Boxes
+
+- Using background-position to separate an image in different parts, adding a cool small effect making it turning, nothing crazy and usable, just a fun project.
+
+41- 2FA UI Page
+
+- Concept of a Two-Factor UI page. Inputs accept numbers and makes the focus change if you typed a number or backspace.
+
+42- User Search Bar
+
+- Search bar made for small middle applications, using the random user API we fetch a set of users and filter them based on what was typed in the search bar.
