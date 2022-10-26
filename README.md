@@ -178,3 +178,7 @@ Also uploading them in netlify (maybe?)
 43- Feedback UI
 
 - Small component to obtain the user feedback, this time using event bubbling, parentNodes and childNodes, to communicate and showing data.
+
+44- Custom Range Slider
+
+- Making the label follow the range thumb, there is a bit of logic getting the values in the CSS via JS using getComputedStyle and getPropertyValue. Good for applications that need to ajust volume or other kinds of numeric values using range.
