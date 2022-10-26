@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Muli:wght@400;700;900&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffe52c;
+
+  font-family: "Muli", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.text {
+  text-transform: uppercase;
+}
+
+.logo {
+  width: 150px;
+}
+
+.nav-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.open-button {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
+
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  transform: translateX(-100%);
+  transition: transform 0.2s ease-in-out;
+}
+
+.nav.visible {
+  transform: translateX(0);
+}
+
+.nav-dark {
+  background-color: #000000;
+  width: 60%;
+  max-width: 480px;
+  min-width: 320px;
+  transition-delay: 0.2s;
+}
+
+.nav-dark.visible {
+  transition-delay: 0s;
+}
+
+.nav-dark-yellow {
+  width: 95%;
+  background-color: #ffcf00;
+  transition-delay: 0.1s;
+}
+
+.nav-dark-yellow.visible {
+  transition-delay: 0.1s;
+}
+
+.nav-light-yellow {
+  background-color: #fcff00;
+  width: 95%;
+  padding: 40px;
+  position: relative;
+  transition-delay: 0s;
+}
+
+.nav-light-yellow.visible {
+  transition-delay: 0.1s;
+}
+
+.close-button {
+  opacity: 0.3;
+  position: absolute;
+  top: 40px;
+  right: 30px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list li {
+  margin: 20px 0;
+}
+
+.list li a {
+  color: #000;
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.list ul {
+  list-style-type: none;
+  padding-left: 20px;
+}

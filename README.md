@@ -182,3 +182,7 @@ Also uploading them in netlify (maybe?)
 44- Custom Range Slider
 
 - Making the label follow the range thumb, there is a bit of logic getting the values in the CSS via JS using getComputedStyle and getPropertyValue. Good for applications that need to ajust volume or other kinds of numeric values using range.
+
+45- Nav/Menu Color Effect
+
+- Using 3 or more divs to create this effect, colored divs goes fist and then main menu appears. The game persona 4 has this UI style, using the same colors too.
