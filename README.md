@@ -1,8 +1,9 @@
 # Small Projects
 
 This is a series of small projects using HTML, CSS and JS. Most of the projects do not use libraries, if it is used is mostly Font Awesome for icons and small libraries for other styles. I'm using these projects to test my skills and knowledge.
+Some projects will use innerHTML to change information to the user, this is not the best practive, but the main goal is to make it simple and try new things, won't use components and more complex stuffs.
 Mostly small components, image slide shows, small games, fetching from APIs.
-Also uploading them in netlify.
+Also uploading them in netlify (maybe?)
 
 ### Projects
 
@@ -173,3 +174,7 @@ Also uploading them in netlify.
 42- User Search Bar
 
 - Search bar made for small middle applications, using the random user API we fetch a set of users and filter them based on what was typed in the search bar.
+
+43- Feedback UI
+
+- Small component to obtain the user feedback, this time using event bubbling, parentNodes and childNodes, to communicate and showing data.
