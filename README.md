@@ -186,3 +186,7 @@ Also uploading them in netlify (maybe?)
 45- Nav/Menu Color Effect
 
 - Using 3 or more divs to create this effect, colored divs goes fist and then main menu appears. The game persona 4 has this UI style, using the same colors too.
+
+46- Quiz Application
+
+- Standard quiz application, feed questions through an array, display and show the total scored at the end of the quiz. Nothing too fancy, of course in production we would receive the questions from another file.
