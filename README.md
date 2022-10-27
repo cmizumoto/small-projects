@@ -190,3 +190,7 @@ Also uploading them in netlify (maybe?)
 46- Quiz Application
 
 - Standard quiz application, feed questions through an array, display and show the total scored at the end of the quiz. Nothing too fancy, of course in production we would receive the questions from another file.
+
+47- Testimonials Blocks
+
+- Component found in various websites, displaying testimonials for a couple os seconds and change to another one. Already made one of those using gallery, but this blocks usually doesn't have much interaction and logic, just a timer bar and content.
