@@ -194,3 +194,7 @@ Also uploading them in netlify (maybe?)
 47- Testimonials Blocks
 
 - Component found in various websites, displaying testimonials for a couple os seconds and change to another one. Already made one of those using gallery, but this blocks usually doesn't have much interaction and logic, just a timer bar and content.
+
+48- Random Image Gallery
+
+- It doesn't have to be random, I'm just using a unsplash source that gives me a random image, but we could get them in order from a API too. Usually we'll see these kinds of galleries in photographers portfolios.
