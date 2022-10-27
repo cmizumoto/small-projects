@@ -198,3 +198,7 @@ Also uploading them in netlify (maybe?)
 48- Random Image Gallery
 
 - It doesn't have to be random, I'm just using a unsplash source that gives me a random image, but we could get them in order from a API too. Usually we'll see these kinds of galleries in photographers portfolios.
+
+49- ToDos List
+
+- The good'ol to do list, this one will not use a backend, only the local storage to preserve the data, already made one more complex some time ago and using vue, but this is the fundamentals, good to keep the knowledge check.
