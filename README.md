@@ -202,3 +202,7 @@ Also uploading them in netlify (maybe?)
 49- ToDos List
 
 - The good'ol to do list, this one will not use a backend, only the local storage to preserve the data, already made one more complex some time ago and using vue, but this is the fundamentals, good to keep the knowledge check.
+
+50- Insect Catch Game
+
+- Game that uses click events, different screens, timeouts and styling. Nothing that complex, it is an endless game, but possible to add different levels and goals. Careful there are spiders in it.
