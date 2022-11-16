@@ -5,6 +5,9 @@ Some projects will use innerHTML to change information to the user, this is not 
 Mostly small components, image slide shows, small games, fetching from APIs.
 Also uploading them in netlify (maybe?)
 
+
+Live version in this link: [https://splendorous-hummingbird-f83838.netlify.app/](https://splendorous-hummingbird-f83838.netlify.app/)
+
 ### Projects
 
 1- Expanding Cards
